@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EscobarBLUE
-- 👀 I’m interested in learning IT and Cybersecurity
-- 🌱 I’m currently learning OS and scripting 
-- 💞️ I’m looking to collaborate on scripting
+- 👀 I’m a Cybersecurity Analyst
+- 🌱 I’m currently learning Cloud SIEMs
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me here on GITHUB
 
 <!---
